@@ -1,0 +1,8 @@
+{
+  "app": "operatividad",
+  "versionCode": 16,
+  "versionName": "1.15",
+  "notes": "Version 1.15: actualizaciones publicas mediante GitHub, reconexion de mensajes y sincronizacion de ubicaciones pendientes.",
+  "required": false,
+  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/Seguridad-Operativa-v1.15.apk"
+}
