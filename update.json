@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 16,
-  "versionName": "1.15",
-  "notes": "Version 1.15: actualizaciones publicas mediante GitHub, reconexion de mensajes y sincronizacion de ubicaciones pendientes.",
+  "versionCode": 17,
+  "versionName": "1.16",
+  "notes": "Version 1.16: inicia la recepcion de mensajes despues de reiniciar, reintenta la conexion MQTT, guia los permisos de segundo plano y muestra respuesta visual al tocar botones.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/06ce93e3f68fe7beedb6e925a513d00187c7be25/Seguridad-Operativa-v1.15.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/af06e8ac6ee24e5375f11cc6a69fc1c04cc6df68/Seguridad-Operativa-v1.16.apk"
 }
