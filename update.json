@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 18,
-  "versionName": "1.17",
+  "versionCode": 19,
+  "versionName": "1.18",
   "notes": "Mejoras de funcionamiento y estabilidad.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/8ba7b18e2523752412355861c26665a8fe73b700/Seguridad-Operativa-v1.17.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/37fa99a38e674aa2dc72d48e1823048bf9cb3f3c/Seguridad-Operativa-v1.18.apk"
 }
