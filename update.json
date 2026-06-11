@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 17,
-  "versionName": "1.16",
-  "notes": "Version 1.16: inicia la recepcion de mensajes despues de reiniciar, reintenta la conexion MQTT, guia los permisos de segundo plano y muestra respuesta visual al tocar botones.",
+  "versionCode": 18,
+  "versionName": "1.17",
+  "notes": "Mejoras de funcionamiento y estabilidad.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/af06e8ac6ee24e5375f11cc6a69fc1c04cc6df68/Seguridad-Operativa-v1.16.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/8ba7b18e2523752412355861c26665a8fe73b700/Seguridad-Operativa-v1.17.apk"
 }
