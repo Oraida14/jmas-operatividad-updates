@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 26,
-  "versionName": "1.25",
-  "notes": "Nueva version de JMAS Movil disponible: pantalla sin recarga al recibir eventos, mapa amplio, pestanas compactas y respuesta visible con teclado.",
+  "versionCode": 27,
+  "versionName": "1.26",
+  "notes": "Nueva version de JMAS Movil disponible: iconos en botones y camara activa para evidencias Antes, Durante y Despues.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.25.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.26.apk"
 }
