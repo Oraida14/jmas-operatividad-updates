@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 27,
-  "versionName": "1.26",
-  "notes": "Nueva version de JMAS Movil disponible: iconos en botones y camara activa para evidencias Antes, Durante y Despues.",
+  "versionCode": 28,
+  "versionName": "1.27",
+  "notes": "Nueva version de JMAS Movil disponible: mejora el envio de evidencias fotograficas para fotos con mas detalle.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.26.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.27.apk"
 }
