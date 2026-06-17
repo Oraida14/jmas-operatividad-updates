@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 24,
-  "versionName": "1.23",
-  "notes": "Nueva version de JMAS Movil disponible con rediseno de pantalla, orden activa y alertas operativas reforzadas.",
+  "versionCode": 25,
+  "versionName": "1.24",
+  "notes": "Nueva version de JMAS Movil disponible con mapa en pestana, mensajes sin recarga de pantalla y alertas operativas mas claras.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.23.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.24.apk"
 }
