@@ -1,8 +1,8 @@
 {
   "app": "operatividad",
-  "versionCode": 20,
-  "versionName": "1.19",
-  "notes": "Mejora la ubicacion continua, conserva mensajes durante reconexiones, agrega mapa satelital y mantiene la busqueda al cambiar de pantalla.",
+  "versionCode": 23,
+  "versionName": "1.22",
+  "notes": "Nueva version de JMAS Movil disponible.",
   "required": false,
-  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/Seguridad-Operativa-v1.19.apk"
+  "apkUrl": "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/Seguridad-Operativa-v1.22.apk"
 }
