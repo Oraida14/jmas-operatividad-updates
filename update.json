@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.33.apk",
-    "versionName":  "1.33",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.34.apk",
+    "versionName":  "1.34",
     "app":  "operatividad",
-    "versionCode":  34,
+    "versionCode":  35,
     "required":  false,
-    "notes":  "JMAS Movil: agrega nota de cierre, mantiene evidencias orientadas correctamente y mejora reportes cerrados por departamento."
+    "notes":  "JMAS Movil: pregunta si desea agregar nota antes de finalizar reporte; si no, envia el cierre directo."
 }
