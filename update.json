@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.31.apk",
-    "versionName":  "1.31",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.32.apk",
+    "versionName":  "1.32",
     "app":  "operatividad",
-    "versionCode":  32,
+    "versionCode":  33,
     "required":  false,
-    "notes":  "JMAS Movil: evidencias por HTTPS publico de TLM02 Funnel, sin fallback jmas-tracking para datos moviles."
+    "notes":  "JMAS Movil: corrige orientacion de evidencias y limpia advertencias al restablecer ubicacion, permisos o modo avion."
 }
