@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.30.apk",
-    "versionName":  "1.30",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.31.apk",
+    "versionName":  "1.31",
     "app":  "operatividad",
-    "versionCode":  31,
+    "versionCode":  32,
     "required":  false,
-    "notes":  "JMAS Movil: evidencias por servidor TLM02, confirmacion antes de cerrar orden y reporte de cierre."
+    "notes":  "JMAS Movil: evidencias por HTTPS publico de TLM02 Funnel, sin fallback jmas-tracking para datos moviles."
 }
