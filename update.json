@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.32.apk",
-    "versionName":  "1.32",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.33.apk",
+    "versionName":  "1.33",
     "app":  "operatividad",
-    "versionCode":  33,
+    "versionCode":  34,
     "required":  false,
-    "notes":  "JMAS Movil: corrige orientacion de evidencias y limpia advertencias al restablecer ubicacion, permisos o modo avion."
+    "notes":  "JMAS Movil: agrega nota de cierre, mantiene evidencias orientadas correctamente y mejora reportes cerrados por departamento."
 }
