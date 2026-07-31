@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.39.apk",
-    "versionName":  "1.39",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.40.apk",
+    "versionName":  "1.40",
     "app":  "operatividad",
-    "versionCode":  40,
+    "versionCode":  41,
     "required":  false,
-    "notes":  "JMAS Movil 1.39: corrige el bloqueo 418 del mapa mediante cartografia Esri, conservando busqueda, ubicacion, marcador y vista satelital."
+    "notes":  "JMAS Movil 1.40: agrega autenticacion segura por tarea para evidencias, sin captura manual de claves; conserva el mapa Esri y el flujo operativo mejorado."
 }
