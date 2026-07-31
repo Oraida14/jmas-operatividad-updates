@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.37.apk",
-    "versionName":  "1.37",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.38.apk",
+    "versionName":  "1.38",
     "app":  "operatividad",
-    "versionCode":  38,
+    "versionCode":  39,
     "required":  false,
-    "notes":  "JMAS Movil 1.37: corrige la visualizacion del mapa operativo mediante carga directa, conserva el nuevo flujo de trabajo y las evidencias seguras."
+    "notes":  "JMAS Movil 1.38: nuevo mapa operativo con OpenStreetMap, busqueda de sitios, ubicacion actual y vista satelital sin depender de Google Embed."
 }
