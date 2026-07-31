@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.41.apk",
-    "versionName":  "1.41",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.42.apk",
+    "versionName":  "1.42",
     "app":  "operatividad",
-    "versionCode":  42,
+    "versionCode":  43,
     "required":  false,
-    "notes":  "JMAS Movil 1.41: recupera el envio de evidencias por el canal movil MQTT cuando HTTP no esta disponible; conserva cola local, mapa Esri y flujo operativo."
+    "notes":  "JMAS Movil 1.42: ajusta compresion de evidencia al limite del broker para envio confiable por datos moviles, conservando HTTP binario como canal principal."
 }
