@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.40.apk",
-    "versionName":  "1.40",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.41.apk",
+    "versionName":  "1.41",
     "app":  "operatividad",
-    "versionCode":  41,
+    "versionCode":  42,
     "required":  false,
-    "notes":  "JMAS Movil 1.40: agrega autenticacion segura por tarea para evidencias, sin captura manual de claves; conserva el mapa Esri y el flujo operativo mejorado."
+    "notes":  "JMAS Movil 1.41: recupera el envio de evidencias por el canal movil MQTT cuando HTTP no esta disponible; conserva cola local, mapa Esri y flujo operativo."
 }
