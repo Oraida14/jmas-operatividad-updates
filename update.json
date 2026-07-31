@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.35.apk",
-    "versionName":  "1.35",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.36.apk",
+    "versionName":  "1.36",
     "app":  "operatividad",
-    "versionCode":  36,
+    "versionCode":  37,
     "required":  false,
-    "notes":  "JMAS Movil 1.35: seguimiento continuo en segundo plano, recuperacion al encender, alarmas persistentes de seguridad y mensajes, y evidencias con reintento automatico."
+    "notes":  "JMAS Movil 1.36: pantalla operativa simplificada, siguiente paso destacado, evidencias mas claras y carga segura con credencial individual de la tableta."
 }
