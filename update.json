@@ -1,8 +1,8 @@
 ﻿{
-    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.43.apk",
-    "versionName":  "1.43",
+    "apkUrl":  "https://github.com/Oraida14/jmas-operatividad-updates/raw/main/JMAS-Movil-v1.44.apk",
+    "versionName":  "1.44",
     "app":  "operatividad",
-    "versionCode":  44,
+    "versionCode":  45,
     "required":  false,
-    "notes":  "JMAS Movil 1.43: conserva evidencia de alta calidad por HTTP y genera una copia optimizada menor a 40 KB para respaldo MQTT segun el limite medido del broker."
+    "notes":  "JMAS Movil 1.44: corrige la autenticacion HTTP de evidencias cuando el token de compilacion esta vacio y conserva la orientacion correcta de las fotografias con Exif nativo."
 }
