@@ -1,0 +1,8 @@
+{
+  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.55-Extraccion-Con-Guardia.apk",
+  "versionName": "1.55",
+  "app": "operatividad-extraccion",
+  "versionCode": 56,
+  "required": false,
+  "notes": "JMAS Movil 1.55 Extraccion: menu lateral exclusivo, formulario de Guardia y flujo operativo validado con SIGOP y Tracking."
+}
