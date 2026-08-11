@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.65-Unificada.apk",
-  "versionName": "1.65",
+  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.66-Unificada.apk",
+  "versionName": "1.66",
   "app": "jmas-movil-unificada",
-  "versionCode": 66,
+  "versionCode": 67,
   "required": false,
-  "notes": "JMAS Movil 1.65 unificada: Reportar anomalia disponible para todas las cuadrillas; el formulario Guardia permanece visible solo cuando se habilita durante el alta."
+  "notes": "JMAS Movil 1.66: catálogo oficial de pozos con búsqueda y selección obligatoria, asociación correcta al expediente del sitio y nuevo módulo de mantenimientos con descripción y hasta tres fotografías."
 }
