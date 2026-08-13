@@ -1,8 +1,8 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.66-Unificada.apk",
-    "versionName":  "1.66",
+    "apkUrl":  "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.68-Unificada.apk",
+    "versionName":  "1.68",
     "app":  "operatividad",
-    "versionCode":  67,
+    "versionCode":  69,
     "required":  false,
-    "notes":  "JMAS Movil 1.66: catálogo oficial de pozos, expediente correcto por sitio y nuevo módulo de mantenimientos con fotografías."
+    "notes":  "JMAS Móvil 1.68: mensajes libres del operador a su coordinación, además de tareas, anomalías, mantenimientos, evidencias y seguimiento en segundo plano."
 }
