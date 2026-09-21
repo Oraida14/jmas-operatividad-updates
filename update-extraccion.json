@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.72-Extraccion.apk",
-  "versionName": "1.72",
+  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.73-Extraccion.apk",
+  "versionName": "1.73",
   "app": "operatividad-extraccion",
-  "versionCode": 73,
+  "versionCode": 74,
   "required": false,
-  "notes": "JMAS Móvil 1.72 Extracción: menú lateral optimizado para pantallas pequeñas, conservando todas las opciones y el acceso a emergencia."
+  "notes": "JMAS Móvil 1.73 Extracción: se elimina el mapa interno de visualización para reducir consumo de datos móviles. Se conservan ubicación, GPS, MQTT, tareas, Guíame con Google Maps y Guardia."
 }
