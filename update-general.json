@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.73-General.apk",
-  "versionName": "1.73",
+  "apkUrl": "https://raw.githubusercontent.com/Oraida14/jmas-operatividad-updates/main/JMAS-Movil-v1.74-General.apk",
+  "versionName": "1.74",
   "app": "operatividad-general",
-  "versionCode": 74,
+  "versionCode": 75,
   "required": false,
-  "notes": "JMAS Móvil 1.73 General: se elimina el mapa interno de visualización para reducir consumo de datos móviles. Se conservan ubicación, GPS, MQTT, tareas y Guíame con Google Maps."
+  "notes": "JMAS Móvil 1.74 General: menú lateral desplazable para mantener visible el acceso a Emergencia. Se conserva la eliminación del mapa interno y todas las funciones operativas."
 }
